@@ -1,8 +1,6 @@
 function randomImage() {
   var images = [
     'img/header-bg3.jpg',
-    'img/header-bg2.jpg',
-    'img/header-bg12.jpg'
   ];
   var imgAmount = images.length;
   var x = Math.floor(imgAmount * Math.random());
